@@ -3,7 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/leighmcculloch/go-iszero)](https://goreportcard.com/report/github.com/leighmcculloch/go-iszero)
 [![Codecov](https://img.shields.io/codecov/c/github/leighmcculloch/go-iszero.svg)](https://codecov.io/gh/leighmcculloch/go-iszero)
 [![Build Status](https://img.shields.io/travis/leighmcculloch/go-iszero.svg)](https://travis-ci.org/leighmcculloch/go-iszero)
-[![Go docs](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/leighmcculloch/go-iszero)
+[![Go docs](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/4d63.com/iszero)
 
 A go package for checking if a value is zero.
 
@@ -11,4 +11,4 @@ I put this package together from code within the Go source, because I needed to 
 
 ## Usage
 
-See the example in [Go Docs](https://godoc.org/github.com/leighmcculloch/go-iszero).
+See the example in [Go Docs](https://godoc.org/4d63.com/iszero).

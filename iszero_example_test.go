@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/leighmcculloch/go-iszero"
+	"4d63.com/iszero"
 )
 
 func ExampleValue() {

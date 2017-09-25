@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/leighmcculloch/go-iszero"
+	"4d63.com/iszero"
 )
 
 func BenchmarkValueArray(b *testing.B) {
